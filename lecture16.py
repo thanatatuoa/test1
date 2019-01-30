@@ -1,0 +1,8 @@
+print(type('hello world'))
+print('hello world')
+print(type(10))
+print(type(10.9))
+print(type(True))
+print(type(7j))
+print(type(10+3.5))
+print(776)
